@@ -1,16 +1,13 @@
-### Hi there 👋 I'm Ravindu Lakshan
+### Hi there 👋, Ravindu Lakshan
+#### Design and Development
+![Design and Development](https://drive.google.com/file/d/1D3tFwxKju_TyKelWUSy9U5CWkhx5NBtE/view?usp=drive_link)
 
-<!--
-**RavinduLakshan12/RavinduLakshan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Lakshan from Sri - Lanka and I do content on Design and Development. I really enjoy languages and frameworks like Java, React, and React Native, and as well as work in Graphic design. I also enjoy UX, UI, and design in general.
 
-Here are some ideas to get you started:
+Skills: JAVA /REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
